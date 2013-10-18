@@ -1,0 +1,18 @@
+REPOSITORIO  :
+                Metodos_numericos  
+
+LENGUAJES    :
+                -- Matlab
+                -- Octave
+                -- Scilab
+
+DESCRIPCION  :
+                En este repositorio estan todos mis programas sobre metodos 
+                numericos.
+
+BIBLIOGRAFIA :
+                -- Tecnicas de Calculo para Sistemas de Ecuaciones, Programacion
+                   Lineal y Programacion Entera 
+                   - Autor(es)  : Jose Luis de la Fuente O'Connor
+                   - Comentario : Este libro es mi principal referencia para
+                                  implementar los algoritmos numericos.
